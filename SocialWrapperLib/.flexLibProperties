@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.ng.SocialAPI"/>
+    <classEntry path="com.ng.interfaces.ISocialAPI"/>
+    <classEntry path="com.ng.data.UserVO"/>
+    <classEntry path="com.ng.events.SAEvent"/>
+    <classEntry path="com.ng.networks.VKNetwork"/>
+    <classEntry path="com.ng.utils.FlashVarsUtil"/>
+    <classEntry path="com.ng.networks.enums.NetworkName"/>
+    <classEntry path="com.ng.data.SocialApiData"/>
+    <classEntry path="com.api.od.ODApi"/>
+    <classEntry path="com.ng.networks.ODNetwork"/>
+    <classEntry path="com.api.od.ODMethod"/>
+    <classEntry path="com.ng.networks.enums.Token"/>
+    <classEntry path="com.ng.data.WallVO"/>
+    <classEntry path="com.ng.utils.MultipartURLLoaderEvent"/>
+    <classEntry path="com.api.vk.WallImgOnServer"/>
+    <classEntry path="com.ng.debug.UIDisplay"/>
+    <classEntry path="com.ng.debug.Style"/>
+    <classEntry path="com.ng.debug._Style"/>
+    <classEntry path="com.ng.logging.Logger"/>
+    <classEntry path="com.ng.logging.LogType"/>
+    <classEntry path="com.ng.networks.AbstractNetwork"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
