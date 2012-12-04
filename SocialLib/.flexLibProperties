@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.nextgame.SocialAPI"/>
+    <classEntry path="com.nextgame.data.UserVO"/>
+    <classEntry path="com.nextgame.events.SAEvent"/>
+    <classEntry path="com.nextgame.utils.FlashVarsUtil"/>
+    <classEntry path="com.nextgame.networks.enums.NetworkAlias"/>
+    <classEntry path="com.api.od.ODApi"/>
+    <classEntry path="com.nextgame.networks.ODNetwork"/>
+    <classEntry path="com.api.od.ODMethod"/>
+    <classEntry path="com.nextgame.networks.enums.Token"/>
+    <classEntry path="com.nextgame.data.WallVO"/>
+    <classEntry path="com.nextgame.utils.MultipartURLLoaderEvent"/>
+    <classEntry path="com.api.vk.WallImgOnServer"/>
+    <classEntry path="com.ng.debug.UIDisplay"/>
+    <classEntry path="com.ng.debug.Style"/>
+    <classEntry path="com.ng.debug._Style"/>
+    <classEntry path="com.nextgame.logging.Logger"/>
+    <classEntry path="com.nextgame.logging.LogType"/>
+    <classEntry path="com.nextgame.parsers.ParseDataVK"/>
+    <classEntry path="com.nextgame.utils.Iterrator"/>
+    <classEntry path="com.nextgame.events.SARequestEvent"/>
+    <classEntry path="com.nextgame.parsers.ParseDataOD"/>
+    <classEntry path="com.nextgame.networks.NGNetwork"/>
+    <classEntry path="com.nextgame.parsers.ParserDataNG"/>
+    <classEntry path="com.nextgame.parsers.ParseDataMAILRU"/>
+    <classEntry path="com.nextgame.networks.enums.NetworkName"/>
+    <classEntry path="com.nextgame.parsers.ParseNetAnswer"/>
+    <classEntry path="com.api.mailru.js.MailruAnswers"/>
+    <classEntry path="com.nextgame.networks.VKNetwork"/>
+    <classEntry path="com.nextgame.utils.MultipartData"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
